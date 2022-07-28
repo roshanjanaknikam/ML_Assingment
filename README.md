@@ -1,5 +1,5 @@
 # ML_Assingment
-In the Academic Year ,College gave  Assignment of  Handwritten Letter Classification Challenge  and I did Completed the Assignment. and I felt that share this Assignment on GitHub. ***In Assingment College gave Six(6) Question: 
+In the Academic Year ,College gave  Assignment of  Handwritten Letter Classification Challenge  and I did Completed the Assignment. and I felt that share this Assignment on GitHub. ***In Assingment College gave Six(6) Question:*** 
 
 Train a machine learning model to classify any 10 letters. The project involves the following steps;
 
@@ -23,6 +23,6 @@ In This Assignment  I have collected A to Z handwritten letters CSV data file . 
 "from sklearn.model_selection import train_test_split"
 "from sklearn.utils import shuffle" this all libraries. please go through the file and check.
 
-in this Hand Written Letter detectction  module i got***97% accuracy.*** 
+in this Hand Written Letter detectction  module i got ***97% accuracy.*** 
 
 
